@@ -1,4 +1,4 @@
-#Poject to Manage the fleet of our company TataYoyo (delevery of meals by bycycles)
+# Poject to Manage the fleet of our company TataYoyo (delevery of meals by bycycles)
 
 ## Includes all vehicules : car, bycycle, motorbike as so one (all Fleet !)
 
@@ -12,9 +12,9 @@ See:
         *https://data.gov.be/fr/dataset/d4961387-23f4-44f8-b2e7-c7e9a260a83e
         *https://datastore.brussels/web/data/dataset/d4961387-23f4-44f8-b2e7-c7e9a260a83e
 
-### About us
-### CRM of all elements of our database
-### Etc ...
+### * About us
+### * CRM of all elements of our database
+### *Etc ...
 
 
 
