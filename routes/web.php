@@ -16,9 +16,20 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/', function () {
-    return view('gestFleet');
+    return view('home');
 });
 
-Route::get('/toto',function(){
-    return view('toto');
+Route::get('/about',function(){
+    return view('about');
 });
+
+Route::get('/personnel',function(){
+    return view('personnel');
+});
+
+Route::get('vehicule', function () {
+    return view('vehicule');
+
+});
+
+
