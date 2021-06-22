@@ -20,18 +20,29 @@
         </style>
     </head>
     <body>
-            <h1>La bienvenue dans la gestion de la flotte de TataYoyo !      </h1>
+            <h1>Gestion de la flotte</h1>
 
 
             <div class="cat">
                 <div class="cat-main">
                         <div class="info"></div>
-                        <a href="/vehicule" class="portfolio-link"><div class="petal portfolio"></div></a>
-                        <a href="/personnel" class="contact-link"><div class="petal contact"></div></a>
-                        <a href="#" class="socialmedia-link"><div class="petal socialmedia"></div></a>
-                        <a href="#" class="inspiration-link"><div class="petal inspiration"></div></a>
-                        <a href="#" class="mystery-link"><div class="petal mystery"></div></a>
+                        <a href="/vehicule" class="vehicule-link"><div class="petal vehicule">Véhicule</div></a>
+                        <a href="/personnel" class="personnel-link"><div class="petal personnel">Personnel</div></a>
+                        <a href="/reservation" class="reservation-link"><div class="petal reservation">Réservation</div></a>
+                        <a href="/suivi" class="suivi-link"><div class="petal suivi">Suivi</div></a>
+                        <a href="/sinistre" class="sinistre-link"><div class="petal sinistre">Sinistre</div></a>
+                        <?php
+                            /*
+                            Menu:
+                            -gestion vehicule : CRUD +  lien vers entretien, sinistre
+
+                            */
+                        ?>
+
                 </div>
+                <div id="explication">Aller sur la fleur pour choisir votre option.</div>
+
+
 
             </div>
 
@@ -48,6 +59,6 @@
                 ?>
                 </br>Hr. Bruxelles : {{date('H:i')}}
                 <br>&copy; Coyright 2021&middot; <a href="about" id="/about">About us</a>
-                </footer>
+            </footer>
     </body>
 </html>
