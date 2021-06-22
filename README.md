@@ -40,4 +40,7 @@ See:
 ### Images :  
 * https://icones8.fr/
 
+### Outil test : 
+* https://testiphone.com/  (test iphone)
+
 
