@@ -32,4 +32,8 @@ Route::get('vehicule', function () {
 
 });
 
+Route::get('/test',function(){
+    return view('test');
+});
+
 
