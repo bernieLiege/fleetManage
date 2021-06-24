@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-  	<title>Miam! Gestion des véhicules</title>
+  	<title>Miam! Gestion des reservations</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -44,7 +44,7 @@
     <!-- END nav -->
     <div class="container">
         <div class="row justify-content-center">
-            <h1>Gestion des véhicules</h1>
+            <h1>Gestion des réservations</h1>
         </div>
 
 

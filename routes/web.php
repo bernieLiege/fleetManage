@@ -36,4 +36,14 @@ Route::get('/test',function(){
     return view('test');
 });
 
+Route::get('/sinistre',function(){
+    return view('sinistre');
+});
 
+Route::get('/reservation',function(){
+    return view('reservation');
+});
+
+Route::get('/suivi',function(){
+    return view('suivi');
+});
