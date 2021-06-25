@@ -47,3 +47,7 @@ Route::get('/reservation',function(){
 Route::get('/suivi',function(){
     return view('suivi');
 });
+
+Route::get('/calendrier',function(){
+    return view('calendrier');
+});

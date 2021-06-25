@@ -1,9 +1,9 @@
 /* CSS Document */
-/* text decoration (balise a) :  
---> none : pas soulignÈ,
---> underline : soulignÈ (bas),
---> overline : soulignÈ (haut)
---> overline underline : soulignÈ en hait et en bas...*/
+/* text decoration (balise a) :
+--> none : pas soulign√©,
+--> underline : soulign√© (bas),
+--> overline : soulign√© (haut)
+--> overline underline : soulign√© en hait et en bas...*/
 
 
 .date {
@@ -23,24 +23,25 @@
 }
 
 .tab_numero {
-	background:url(img/icone.jpg);
+	background:url(../img/icone.jpg);
+    background-color: rgb(246, 253, 255);
 	background-repeat:no-repeat;
 	background-position:bottom right;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #000000;
 	font-weight: normal;
-	border-style:solid; 
-	border-width:2px; 
+	border-style:solid;
+	border-width:2px;
 	border-color:#000099;
 	border-top:hidden;
 }
 
 .tab_cal {
-	background:url(img/entete.jpg);
+	background:url(../img/entete.jpg);
 	background-repeat:no-repeat;
-	border-style:solid; 
-	border-width:2px; 
+	border-style:solid;
+	border-width:2px;
 	border-color:#000099;
 	border-bottom:hidden;
 }
